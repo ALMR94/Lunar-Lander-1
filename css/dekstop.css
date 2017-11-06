@@ -2,4 +2,4 @@
 .b{background-image:;}
 .c{background-image:;}
 .a,.b,.c{display:inline-block;width:33.33%;height:200px;}
-background-image: /img/fondoguay.png("fondoguay.png")
+background-image: img/fondoguay.png("fondoguay.png")
